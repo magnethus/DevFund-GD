@@ -1,2 +1,2 @@
-# DevFund-GD
-ThisIsForGroupD
+# DevFun-GD
+denv fundamental 2019
